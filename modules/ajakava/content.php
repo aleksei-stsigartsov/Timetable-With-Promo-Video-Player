@@ -3,7 +3,7 @@ require_once "json_reader.php";
 ?>
 <section>
     <div class="row">
-        <div class="col-4 col-sm-7" id="table1">
+        <div class="col-4" id="table1">
             <table class="othertable" id="rent-table">
                 <thead>
                     <tr>
@@ -41,7 +41,7 @@ require_once "json_reader.php";
             </table>
         </div>
         
-        <div class="col-8 col-sm-5" id="table1" style="padding-left:50px;">
+        <div class="col-8 " id="table1" style="padding-left:50px;">
             <table class="othertable">
                 <thead>
                     <tr>
